@@ -2,10 +2,9 @@
 #include "Point.h";
 
 class GameObject {
-private:
+protected:
 	Point point;
 public:
 	Point getPoint() { return point; }
-	void setPoint(Point p) { point = p; }
-	GameObject(int x, int y);
+	void setPoint(int a, int b) { point.setX(a); point.setY(b); }
 };

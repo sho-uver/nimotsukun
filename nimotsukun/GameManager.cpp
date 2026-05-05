@@ -4,3 +4,7 @@
 void GameManager::start() {
 	stage.init();
 }
+
+void GameManger(string str) {
+
+}

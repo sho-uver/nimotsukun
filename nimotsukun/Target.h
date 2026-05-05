@@ -1,5 +1,5 @@
 #pragma once
 #include "GameObject.h";
 
-class Target :GameObject {
+class Target : public GameObject {
 };

@@ -2,5 +2,5 @@
 // 壁なのでステージ上の位置だけ保管する
 #include "GameObject.h";
 
-class Wall :GameObject{
+class Wall : public GameObject{
 };
