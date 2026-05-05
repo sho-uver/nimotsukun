@@ -42,5 +42,4 @@ void Stage::init() {
 	baggage2.setPoint(2, 2);
 	goList[2][1] = &baggage1;
 	goList[2][2] = &baggage2;
-
 }

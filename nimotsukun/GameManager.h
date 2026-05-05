@@ -15,4 +15,5 @@ private:
 public:
 	void start();
 	void update(string str);
+	void draw();
 };

@@ -2,8 +2,8 @@
 #include "InputCommand.h";
 #include "GameObject.h";
 
-class MovableObject : GameObject{
-private:
+class MovableObject : public GameObject{
+protected:
 	bool isOnTarget = false;
 public:
 	Point move(InputCommand ic);

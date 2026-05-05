@@ -131,6 +131,7 @@
     <ClInclude Include="Baggage.h" />
     <ClInclude Include="GameManager.h" />
     <ClInclude Include="GameObject.h" />
+    <ClInclude Include="GameObjectType.h" />
     <ClInclude Include="InputCommand.h" />
     <ClInclude Include="MovableObject.h" />
     <ClInclude Include="Player.h" />

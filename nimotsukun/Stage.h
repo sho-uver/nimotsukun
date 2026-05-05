@@ -17,7 +17,7 @@ public:
 	void init();
 	void moveMovableObject(MovableObject mo);
 	void resetTarget();
-	GameObject getPointGameObject(Point p);
+	GameObject* getPointOfGameObject(int a, int b) { return goList[a][b]; };
 private:
-	GameObject goList[stageRow][stageColumn];
+	GameObject* goList[stageRow][stageColumn];
 };

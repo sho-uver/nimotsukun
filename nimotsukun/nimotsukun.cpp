@@ -8,11 +8,11 @@ using namespace std;
 
 int main()
 {
-	GameManager* gm;
+	GameManager gm;
 	string input;
-	gm->start();
+	gm.start();
 	while(input == "q") {
 		cin >> input;
-		gm->update(input);
+		gm.update(input);
 	}
 }
