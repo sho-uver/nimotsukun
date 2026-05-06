@@ -1,5 +1,5 @@
 # 遊び方
-この[exe](https://github.com/sho-uver/nimotsukun/releaseslatest/download/nimotsukun.exe)をダウンロードして実行するとゲームが起動します。
+この[exe](https://github.com/sho-uver/nimotsukun/releases/latest/download/nimotsukun.exe)をダウンロードして実行するとゲームが起動します。
 ルールと操作方法を確認して遊んでください。
 
 # ルール
