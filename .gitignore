@@ -6,7 +6,6 @@ Release/
 *.obj
 *.pdb
 *.ilk
-*.exe
 *.log
 *.tlog
 *.recipe
