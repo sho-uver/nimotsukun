@@ -1,3 +1,7 @@
+# ゲーム画面
+<img width="498" height="286" alt="image" src="https://github.com/user-attachments/assets/31a25f71-484d-43da-ab72-b6feddfd82b7" />
+
+
 # 遊び方
 この[exe](https://github.com/sho-uver/nimotsukun/releases/latest/download/nimotsukun.exe)をダウンロードして実行するとゲームが起動します。
 ルールと操作方法を確認して遊んでください。
