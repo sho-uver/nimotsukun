@@ -1,10 +1,12 @@
 #pragma once
-// ステージ上のゲームオブジェクトを二重配列で保持する
-// 指定されたゲームオブジェクトのステージ上のゲームオブジェクトの位置を配置し直す
-// 特定の位置のゲームオブジェクトを返却する
-// ステージの壁と目的地だけ初期化
 #include "GameObject.h"
 #include "MovableObject.h"
+#include "Stage.h"
+#include "Wall.h"
+#include "Target.h"
+#include "Player.h"
+#include "Baggage.h"
+#include "NoneZone.h"
 
 class Stage {
 public:
@@ -15,9 +17,18 @@ public:
 	static const int target2X = 4;
 	static const int target2Y = 3;
 	void init();
-	void moveMovableObject(MovableObject mo);
+	void moveMovableObject(Point current, Point next);
 	void resetTarget();
 	GameObject* getPointOfGameObject(int a, int b) { return goList[a][b]; };
+	GameObject* getPointOfGameObject(Point p) { return goList[p.getY()][p.getX()]; };
+	Player getPlayer() { return player; }
 private:
 	GameObject* goList[stageRow][stageColumn];
+	Player player;
+	Baggage baggage1;
+	Baggage baggage2;
+	Target target1;
+	Target target2;
+	Wall wall[stageRow * 2 + (stageColumn - 2) * 2];
+	NoneZone noneZone[stageRow * stageColumn];
 };

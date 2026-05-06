@@ -1,6 +1,6 @@
 #pragma once
 enum GameObjectType {
-	Type_None,
+	Type_NoneZone,
 	Type_Player,
 	Type_Baggage,
 	Type_Wall,

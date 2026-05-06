@@ -1,50 +1,23 @@
-﻿  GameManager.cpp
+﻿  nimotsukun.cpp
 C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\GameObject.h(2,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'GameManager.cpp' をコンパイルしています)
+  (ソース ファイル 'nimotsukun.cpp' をコンパイルしています)
   
 C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\MovableObject.h(2,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'GameManager.cpp' をコンパイルしています)
+  (ソース ファイル 'nimotsukun.cpp' をコンパイルしています)
   
 C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\MovableObject.h(3,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'GameManager.cpp' をコンパイルしています)
-  
-C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\Player.h(10,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'GameManager.cpp' をコンパイルしています)
-  
-C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\Baggage.h(9,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'GameManager.cpp' をコンパイルしています)
-  
-  Stage.cpp
-C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\GameObject.h(2,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'Stage.cpp' をコンパイルしています)
-  
-C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\MovableObject.h(2,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'Stage.cpp' をコンパイルしています)
-  
-C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\MovableObject.h(3,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'Stage.cpp' をコンパイルしています)
-  
-C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\Wall.h(3,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'Stage.cpp' をコンパイルしています)
+  (ソース ファイル 'nimotsukun.cpp' をコンパイルしています)
   
 C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\Target.h(2,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'Stage.cpp' をコンパイルしています)
+  (ソース ファイル 'nimotsukun.cpp' をコンパイルしています)
+  
+C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\Wall.h(3,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+  (ソース ファイル 'nimotsukun.cpp' をコンパイルしています)
   
 C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\Player.h(10,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'Stage.cpp' をコンパイルしています)
+  (ソース ファイル 'nimotsukun.cpp' をコンパイルしています)
   
 C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\Baggage.h(9,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'Stage.cpp' をコンパイルしています)
-  
-  nimotsukun.cpp
-C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\GameObject.h(2,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
   (ソース ファイル 'nimotsukun.cpp' をコンパイルしています)
   
-C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\MovableObject.h(2,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'nimotsukun.cpp' をコンパイルしています)
-  
-C:\Users\hisho\Documents\CPP\sega\nimotsukun\nimotsukun\MovableObject.h(3,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'nimotsukun.cpp' をコンパイルしています)
-  
-  コードを生成中...
   nimotsukun.vcxproj -> C:\Users\hisho\Documents\CPP\sega\nimotsukun\x64\Debug\nimotsukun.exe

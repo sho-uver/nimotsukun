@@ -134,6 +134,7 @@
     <ClInclude Include="GameObjectType.h" />
     <ClInclude Include="InputCommand.h" />
     <ClInclude Include="MovableObject.h" />
+    <ClInclude Include="NoneZone.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="Point.h" />
     <ClInclude Include="Stage.h" />

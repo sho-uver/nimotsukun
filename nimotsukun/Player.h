@@ -1,14 +1,8 @@
 #pragma once
-// プレイヤーが操作するキャラクター
-// 目的地の上にいたらデカいPになる
-// 目的地の上以外なら小さいｐになる
-// ゲームマネージャーからコマンドを受け取る
-// 移動先に壁があればコマンドを打ち消す
-// 何も無ければゲームマネージャーに移動先の座標を渡す。
-// 荷物があれば移動先と荷物があるフラグをゲームマネージャーに返す
 
 #include "MovableObject.h";
 
 class Player: public MovableObject {
-
+public:
+	Player() { gObjType = Type_Player; }
 };
